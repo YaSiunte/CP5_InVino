@@ -120,5 +120,3 @@ O dashboard precisa conseguir acessar os endpoints HTTP do IoT Agent, Orion e ST
 - `sketch.ino` — firmware do ESP32.
 - `Manual_do_Usuario_InVino_Cliente.docx` — manual de uso em linguagem voltada ao usuário.
 
-
-
